@@ -1,0 +1,27 @@
+# Maven build artifacts
+target/
+*.class
+
+# Playwright traces and recordings
+trace.zip
+*.trace
+*.webm
+*.mp4
+test-results/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
